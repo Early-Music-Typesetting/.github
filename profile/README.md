@@ -3,6 +3,7 @@
 ___Early___ (pronounced as 🌺) is a project facilitating the work with facsimile editions of handwritten musical manuscripts in LilyPond.
 
 # Repositories
-- Early v1
-- Early Testing Suite
+- Early v1.
+- [Archive with releases](https://github.com/Early-Music-Typesetting/releases).
+- [Early Testing Suite](https://github.com/Early-Music-Typesetting/tests).
 - [Early v0](https://github.com/ArturJD96/early?tab=readme-ov-file), the original repository with legacy code.
