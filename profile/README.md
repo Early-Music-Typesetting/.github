@@ -3,6 +3,6 @@
 Early (pronounced as `🌺`) is a project facilitating the work with facsimile editions of handwritten musical manuscripts.
 
 # Repositories
-- Early 1
+- Early v1
 - Early Testing Suite
-- Early 0, the original repository.
+- [Early v0](https://github.com/ArturJD96/early?tab=readme-ov-file), the original repository with legacy code.
